@@ -1,0 +1,391 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .navbar-brand{
+        width: 145px;
+    }
+    .nav-item{
+        text-align: center;
+        font-size: 16px;
+        margin: 15px 0;
+    }
+    .nav-right{
+        justify-content: center;
+    }
+    .banner-sec{
+        padding-block: 50px;
+    }
+    .banner-sec h1{
+        font-size: 37px;
+    }
+    .banner-sec p{
+        font-size: 13px !important;
+    }
+    .banner-btn{
+        justify-content: center;
+    }
+    .btn-1{
+        margin-bottom: 10px;
+        padding: 10px 18px;
+    }
+    .btn-2{
+        margin: 0 0 10px 20px;
+        padding: 10px 16px;
+    }
+    .banner-down{
+        justify-content: center;
+    }
+    .banner-left{
+        margin-bottom: 20px;
+    }
+    .exp-sec{
+        padding-block: 50px;
+    }
+    .exp-head h2{
+        font-size: 26px;
+    }
+    .exp-head p{
+        font-size: 13px;
+    }
+    .exp-text h3{
+        font-size: 18px;
+    }
+    .exp-text p{
+        font-size: 12px;
+    }
+    .serv-sec{
+        padding-block: 50px;
+    }
+    .serv-head h2{
+        font-size: 26px;
+    }
+    .serv-head p{
+        font-size: 13px;
+    }
+    .serv-text h3{
+        font-size: 16px;
+    }
+    .cmn-serv{
+        margin-bottom: 30px;
+    }
+    .result-head h2{
+        font-size: 26px;
+    }
+    .result-head p{
+        font-size: 13px;
+    }
+    .cmn-result .outer{
+        font-size: 30px;
+    }
+    .cmn-result .inner{
+        font-size: 20px;
+    }
+    .cmn-result p{
+        font-size: 13px;
+    }
+    .footer-sec{
+        padding-block: 50px;
+    }
+    .footer-1{
+        width: 90%;
+        margin: auto;
+    }
+    .flow-btn{
+        padding: 16px 23px;
+        font-size: 15px;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .navbar-brand{
+        width: 155px;
+    }
+    .nav-item{
+        text-align: center;
+        font-size: 16px;
+        margin: 15px 0;
+    }
+    .nav-right{
+        justify-content: center;
+    }
+    .banner-sec{
+        padding-block: 50px;
+    }
+    .banner-sec h1{
+        font-size: 37px;
+    }
+    .banner-sec p{
+        font-size: 14px !important;
+    }
+    .banner-btn{
+        justify-content: center;
+    }
+    .btn-1{
+        margin-bottom: 10px;
+        padding: 11px 20px;
+    }
+    .btn-2{
+        margin: 0 0 10px 20px;
+        padding: 11px 18px;
+    }
+    .banner-down{
+        justify-content: center;
+    }
+    .banner-left{
+        margin-bottom: 20px;
+    }
+    .exp-sec{
+        padding-block: 60px;
+    }
+    .exp-head{
+        width: 80%;
+        margin: auto;
+    }
+    .exp-head h2{
+        font-size: 28px;
+    }
+    .exp-head p{
+        font-size: 14px;
+    }
+    .exp-text h3{
+        font-size: 20px;
+    }
+    .exp-text p{
+        font-size: 12px;
+    }
+    .serv-sec{
+        padding-block: 60px;
+    }
+    .serv-head{
+        width: 80%;
+        margin: auto;
+    }
+    .cmn-serv{
+        margin-bottom: 30px;
+    }
+    .serv-head h2{
+        font-size: 28px;
+    }
+    .serv-head p{
+        font-size: 14px;
+    }
+    .serv-text h3{
+        font-size: 18px;
+    }
+    .result-sec{
+        padding-block: 60px;
+    }
+    .result-head{
+        width: 80%;
+        margin: auto;
+    }
+    .result-head h2{
+        font-size: 28px;
+    }
+    .result-head p{
+        font-size: 14px;
+    }
+    .cmn-result .outer{
+        font-size: 34px;
+    }
+    .cmn-result .inner{
+        font-size: 24px;
+    }
+    .cmn-result p{
+        font-size: 14px;
+    }
+    .footer-sec{
+        padding-block: 60px;
+    }
+    .footer-1{
+        width: 90%;
+    }
+    .flow-btn{
+        padding: 17px 24px;
+        font-size: 16px;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .navbar-brand{
+        width: 165px;
+    }
+    .nav-item{
+        text-align: center;
+        font-size: 16px;
+        margin: 15px 0;
+    }
+    .nav-right{
+        justify-content: center;
+    }
+    .banner-sec{
+        padding-block: 50px;
+    }
+    .banner-sec h1{
+        font-size: 47px;
+    }
+    .banner-sec p{
+        font-size: 15px !important;
+    }
+    .banner-btn{
+        justify-content: center;
+    }
+    .btn-1{
+        margin-bottom: 10px;
+        padding: 12px 22px;
+    }
+    .btn-2{
+        margin: 0 0 10px 20px;
+        padding: 12px 19px;
+    }
+    .banner-down{
+        justify-content: center;
+    }
+    .banner-left{
+        margin-bottom: 20px;
+    }
+    .exp-sec{
+        padding-top: 80px;
+    }
+    .exp-head{
+        width: 80%;
+        margin: auto;
+    }
+    .exp-head h2{
+        font-size: 32px;
+    }
+    .exp-head p{
+        font-size: 15px;
+    }
+    .exp-text h3{
+        font-size: 21px;
+    }
+    .exp-text p{
+        font-size: 13px;
+    }
+    .serv-sec{
+        padding-top: 70px;
+    }
+    .cmn-serv{
+        margin-bottom: 30px;
+    }
+    .serv-head{
+        width: 80%;
+        margin: auto;
+    }
+    .serv-head h2{
+        font-size: 32px;
+    }
+    .serv-head p{
+        font-size: 15px;
+    }
+    .serv-text h3{
+        font-size: 20px;
+    }
+    .result-sec{
+        padding-top: 70px;
+    }
+    .result-head{
+        width: 80%;
+        margin: auto;
+    }
+    .result-head h2{
+        font-size: 32px;
+    }
+    .result-head p{
+        font-size: 15px;
+    }
+    .cmn-result .outer{
+        font-size: 38px;
+    }
+    .cmn-result .inner{
+        font-size: 28px;
+    }
+    .cmn-result p{
+        font-size: 15px;
+    }
+    .footer-sec{
+        padding-block: 70px;
+    }
+    .footer-1{
+        width: 90%;
+    }
+    .flow-btn{
+        padding: 18px 25px;
+        font-size: 17px;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .nav-right{
+        display: none !important;
+    }
+    .navbar-nav{
+        margin: 0 0 0 auto !important;
+    }
+    .banner-sec h1{
+        font-size: 57px;
+    }
+    .banner-sec{
+        padding-block: 50px;
+    }
+    .banner-sec p{
+        font-size: 16px !important;
+    }
+    .btn-1{
+        margin: 0 20px 10px 0;
+        padding: 12px 22px;
+    }
+    .btn-2{
+        margin: 0 0 10px 0px;
+        padding: 12px 19px;
+    }
+    .banner-down{
+        justify-content: center;
+    }
+    .banner-left{
+        margin-bottom: 20px;
+    }
+    .exp-head h2{
+        font-size: 36px;
+    }
+    .exp-head p{
+        font-size: 16px;
+    }
+    .exp-text h3{
+        font-size: 22px;
+    }
+    .exp-text p{
+        font-size: 14px;
+    }
+    .cmn-serv{
+        margin-bottom: 30px;
+    }
+    .serv-head h2{
+        font-size: 36px;
+    }
+    .serv-head p{
+        font-size: 16px;
+    }
+    .serv-text h3{
+        font-size: 21px;
+    }
+    .result-head h2{
+        font-size: 36px;
+    }
+    .result-head p{
+        font-size: 16px;
+    }
+    .cmn-result .outer{
+        font-size: 40px;
+    }
+    .cmn-result .inner{
+        font-size: 30px;
+    }
+    .cmn-result p{
+        font-size: 16px;
+    }
+    .footer-sec{
+        padding-block: 87px;
+    }
+    .flow-btn{
+        padding: 20px 27px;
+        font-size: 18px;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {}
